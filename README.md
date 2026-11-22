@@ -4,6 +4,6 @@ Cloud security practitioner based in the Lehigh Valley, PA, looking to transitio
 
 - AWS Certified Cloud Practitioner | CompTIA Security+
 - B.S. Information Science (Cybersecurity focus), University of Pittsburgh
-- Currently building: an AWS multi-account security lab covering IAM, GuardDuty, Security Hub, Terraform and Python automation
+- Currently building: [AWS Security Lab](https://github.com/LoganRuppert/aws-security-lab), a multi-account environment covering IAM, GuardDuty, Security Hub, Terraform and Python automation
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/logan-ruppert)
